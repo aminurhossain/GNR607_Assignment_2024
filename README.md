@@ -1,6 +1,7 @@
 Problem No 22
 Objective:
 Given a multiband image of N bands, compute principal components and generate the approximate version of the input image by performing inverse principal component transform using 2, 3, ..., N-1 components.
+https://colab.research.google.com/gist/aminurds/dfaac38d04414e1f5d0616e916e0d62e/22_pca_multibands.ipynb
 
 Team Members:
 Aminur Hossain (ID: 24D1384)
