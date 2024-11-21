@@ -6,6 +6,8 @@ https://colab.research.google.com/gist/aminurds/dfaac38d04414e1f5d0616e916e0d62e
 Team Members:
 Aminur Hossain (ID: 24D1384)
 Amartya Ray (ID: 24D1383)
+GNR607
+CSRE IITB
 Input Data:
 Dataset: Landsat-8 satellite image
 Bands: 7 bands (for the Mumbai Scene)
