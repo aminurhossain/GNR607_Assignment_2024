@@ -1,3 +1,29 @@
+SIP GNR 607
+Programming Project:
+Team : Aminur Hossain(24d1384), Amartya Ray(24d1383)
+
+
+Problem No 22
+Objective:
+Given a multiband image of N bands, compute principal components and generate the approximate
+version of the input image by performing inverse principal component transform using 2 3 N-1 components 
+
+Addition task: GUI for PCA analysis and input output visualyzation
+
+
+Input Data
+•
+Dataset: 1 subset image taken from a Landsat 8 satellite full scene image
+•
+Bands: 7 bands (for the Mumbai scene)
+LC08_L1TP_148047_20180423_20180502_01_T1.tar.gz
+
+
+
+Github project link : 
+https://github.com/aminurds/SIP_Assignment_2024/tree/main/Projects
+
+
 There are two .py file for this programming projects.
 
 pca_reconstruction.py 
