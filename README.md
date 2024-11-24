@@ -45,7 +45,7 @@ pca_slow.py
 which will have same code as pca_reconstruction.py but it is using numpy inbuild function for mwan or variance and covariance calculatoor
 
 To run code use this command
-
+#
 python pca_gui.py
 
 It will open GUI for PCA viewer 
