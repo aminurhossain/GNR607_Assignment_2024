@@ -37,23 +37,16 @@ pca_reconstruction.py
 For pca calculation and inverse image reconstruction
 This .py have all code with out using any inbuild function like numpy mean and cov ..
 
-
 pca_gui.py
 For GUI display of image and recontruction with input and output file selection 
-
 
 One extra .py file
 pca_slow.py
 which will have same code as pca_reconstruction.py but it is using numpy inbuild function for mwan or variance and covariance calculatoor
 
-
-
 To run code use this command
 
 python pca_gui.py
-
-
-
 
 It will open GUI for PCA viewer 
 
