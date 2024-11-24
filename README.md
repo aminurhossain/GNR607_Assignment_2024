@@ -51,10 +51,15 @@ python pca_gui.py
 It will open GUI for PCA viewer 
 
 "1. **Select Input Image**: Choose the input image for PCA processing.
+
 "2. **Select Output File**: Specify a file to save the reconstructed PCA image with extention .dat, .tif.
+
 "3. **Number of Components**: Enter the number of principal components to use.
+
 "4. **Regenerate**: Process the input image with the specified PCA components.
+
 "5. **Statistics**: View PSNR, SSIM, and explained variance for the reconstruction.
+
 6. Show diff will show difference image
 
 "Tips
